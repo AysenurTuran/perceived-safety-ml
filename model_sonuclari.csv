@@ -1,0 +1,9 @@
+Model,Accuracy,Precision,Recall,F1,ROC AUC,Değerlendirme
+Random Forest (optimize),0.6447,0.6465,0.7033,0.6737,0.6779,Doğrulama
+Random Forest,0.6504,0.6531,0.7033,0.6772,0.6742,Doğrulama
+Lojistik Regresyon,0.6361,0.6396,0.6923,0.6649,0.674,Doğrulama
+SVM,0.639,0.6474,0.6758,0.6613,0.6728,Doğrulama
+Karar Ağacı,0.6218,0.6168,0.7253,0.6667,0.6504,Doğrulama
+KNN,0.6046,0.6279,0.5934,0.6102,0.6211,Doğrulama
+Baseline (çoğunluk),0.5215,0.5215,1.0,0.6855,0.5,Doğrulama
+Random Forest (optimize),0.7192,0.7188,0.7582,0.738,0.7419,Test

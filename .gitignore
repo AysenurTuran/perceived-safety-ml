@@ -1,0 +1,82 @@
+# veri seti
+*.sav
+*.dta
+*.por
+*.zsav
+
+# Ham veri klasörleri (varsa)
+data/
+veri/
+raw/
+
+# Not: model_sonuclari.csv ve adalet_analizi.csv projenin çıktısıdır ve
+# repoda tutulur. Başka CSV'leri hariç tutmak isterseniz aşağıyı açın:
+# *.csv
+# !model_sonuclari.csv
+# !adalet_analizi.csv
+
+# =============================================================================
+# PYTHON
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+ENV/
+
+# Test ve kapsam
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# =============================================================================
+# JUPYTER
+# =============================================================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# =============================================================================
+# PYCHARM / JETBRAINS
+# =============================================================================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# =============================================================================
+# VS CODE
+# =============================================================================
+.vscode/
+*.code-workspace
+
+# =============================================================================
+# İŞLETİM SİSTEMİ
+# =============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# =============================================================================
+# ORTAM DEĞİŞKENLERİ VE GİZLİ BİLGİLER
+# =============================================================================
+.env
+.env.local
+*.key
+secrets.json
