@@ -301,6 +301,9 @@ kullanırken yukarıdaki atfı yapmanız gerekmektedir.
 ---
  
 <div align="center">
-📝 Projenin ayrıntılı anlatımı için **[Medium yazısına]()** göz atabilirsiniz.
+📝 Proje Yazısı
+
+Bu projenin detaylı anlatımını Medium yazımda bulabilirsin:  
+[Karanlıkta Kim Kendini Güvende Hissediyor? — Türkiye Verisiyle Bir ML Projesi](https://medium.com/@aysenur.turan.arc/karanl%C4%B1kta-kim-kendini-g%C3%BCvende-hissediyor-t%C3%BCrkiye-verisiyle-bir-makine-%C3%B6%C4%9Frenmesi-projesi-e02754cdf311)
  
 </div>
